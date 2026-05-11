@@ -7,8 +7,8 @@ This project is implemented and tested in MATLAB 2022b.
 - `data/`  
   Contains the experimental data used in this project.
 
-`subfunctions_code/`
-    Contains the collection of subfunctions and auxiliary functions required by the main program.
+-`subfunctions_code/`
+  Contains the collection of subfunctions and auxiliary functions required by the main program.
 
-`SIIMS_ring.m`, `SIIMS_ring_bias.m`, `SIIMS_brain`
-    The main MATLAB scripts for running the project.
+-`SIIMS_ring.m`, `SIIMS_ring_bias.m`, `SIIMS_brain`
+  The main MATLAB scripts for running the project.
