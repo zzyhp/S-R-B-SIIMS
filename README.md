@@ -1,5 +1,5 @@
 # S-R-B-SIIMS
-official implementation of "A novel framework for joint segmentation-registration-bias correction in low-contrast images"
+
 This is the MATLAB code for "A novel framework for joint segmentation-registration-bias correction in low-contrast images" by Huan Han,Yuanhao Zha, Daoping Zhang and Yimin Zhang.
 
 This project is implemented and tested in MATLAB 2022b.
